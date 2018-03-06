@@ -1,0 +1,15 @@
+﻿@model WillRawInstanceProj.Models.CustSearchModel
+@using Sitecore.Data.Fields
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+
+<div>
+    <h2>Search Customers (First Name)</h2>
+
+    @using (Html.BeginForm())
+    {
+        <p>@Html.EditorFor(x => x.SearchString)</p>
+        <input type="submit" />
+    }
+
+</div>

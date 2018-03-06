@@ -1,0 +1,22 @@
+﻿@model WillRawInstanceProj.Models.Customer
+@using Sitecore.Data.Fields
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+
+<div>
+    <p>Submit the following information to create a new customer profile:</p>
+    @using (Html.BeginForm())
+    {
+        <p>First Name:<br/> @Html.TextBoxFor(x => x.FirstName)</p>
+        <p>Last Name:<br /> @Html.TextBoxFor(x => x.LastName)</p>
+        <p>E-mail Address:<br /> @Html.TextBoxFor(x => x.Email)</p>
+        <p>Phone Number:<br /> @Html.TextBoxFor(x => x.Phone)</p>
+        <p>Address Line One:<br /> @Html.TextBoxFor(x => x.AddressOne)</p>
+        <p>Address Line Two:<br /> @Html.TextBoxFor(x => x.AddressOne)</p>
+        <p>City:<br /> @Html.TextBoxFor(x => x.City)</p>
+        <p>State:<br /> @Html.TextBoxFor(x => x.State)</p>
+        <p>Zipcode:<br /> @Html.TextBoxFor(x => x.ZipCode)</p>
+        <br/>
+        <input type="submit" value="submit"/>
+    }
+</div>

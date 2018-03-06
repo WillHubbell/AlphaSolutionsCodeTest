@@ -1,0 +1,10 @@
+﻿@model Sitecore.Data.Items.Item
+@using Sitecore.Data.Fields
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+
+<h2>Customers</h2>
+@foreach (Item custy in Model.Children)
+{
+    <p class="customer">@custy.Fields["First Name"] @custy.Fields["Last Name"]</p>
+}

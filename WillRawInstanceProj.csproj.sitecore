@@ -1,0 +1,41 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="WillRawInstance:80" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\layouts\RocksViewLayoutTest.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{F5313851-E7E8-4ADF-B097-399630E2724B}</Item>
+  </File>
+  <File Include="/Views/RocksViewLayoutTest.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{F5313851-E7E8-4ADF-B097-399630E2724B}</Item>
+  </File>
+  <File Include="Views\renderings\RocksViewRenderingTest.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{EFF026B4-DD4E-4D6A-AE05-79A49FC8A46A}</Item>
+  </File>
+  <File Include="Views\renderings\ViewRenderingTestTwo.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{0F9D5C39-0591-48E5-8A88-28B5738B1190}</Item>
+  </File>
+  <File Include="Views\layouts\MasterPageLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5D49A23A-423A-45FC-86E5-2E20FC062BA7}</Item>
+  </File>
+  <File Include="/Views/layouts/MasterPageLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5D49A23A-423A-45FC-86E5-2E20FC062BA7}</Item>
+  </File>
+  <File Include="Controllers\renderings\MiniCRMController.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{FF453714-DFE1-47A8-A7D2-BEA00A4CBE81}</Item>
+  </File>
+  <File Include="Controllers\renderings\CustInputController.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{A9218A90-D695-4A02-AB85-9B3B9C59DD75}</Item>
+  </File>
+  <File Include="Models\Customer.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C58068A9-85A7-49AE-ADB4-DAFA2B8752D5}</Item>
+  </File>
+  <File Include="Controllers\renderings\CustSearchController.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{D5D293A3-8B54-4F1F-A621-F342C145FB21}</Item>
+  </File>
+  <File Include="Models\CustSearchModel.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{23B99D8C-CB35-45C1-82D0-B93C409E900F}</Item>
+  </File>
+  <File Include="Controllers\Search\ISearchRepository.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{DEEBFA3B-6BB1-462D-B432-133AB607A4DC}</Item>
+  </File>
+</Project>

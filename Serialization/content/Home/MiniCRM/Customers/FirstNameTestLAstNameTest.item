@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {C173AD49-EF63-43BD-8EE3-828FB838D43E}
+database: master
+path: /sitecore/content/Home/MiniCRM/Customers/FirstNameTestLAstNameTest
+parent: {1BE4C6DE-24D6-4B70-A115-11EE57E2C6E1}
+name: FirstNameTestLAstNameTest
+master: {00000000-0000-0000-0000-000000000000}
+template: {EF14436F-CBB2-4CE1-95A1-C34A11D1EAA4}
+templatekey: Customer
+created: 20180305T230343Z
+
+----version----
+language: en
+version: 1
+revision: 768ec39a-4eeb-46e5-bf78-c1854c0e9633
+
+----field----
+field: {611A9FE8-8113-4C79-926B-080726B478E0}
+name: First Name
+key: first name
+content-length: 13
+
+FirstNameTest
+----field----
+field: {71462860-9768-4A0B-A0DA-E776695025C2}
+name: Last Name
+key: last name
+content-length: 12
+
+LAstNameTest
+----field----
+field: {F3FA44B5-AA50-4594-B6FB-D73FAA6AC8FC}
+name: E-mail Address
+key: e-mail address
+content-length: 16
+
+emailaddresstest
+----field----
+field: {C5A14E60-326A-41C1-8FAA-BDEFB28E9745}
+name: Phone Number
+key: phone number
+content-length: 9
+
+phonetest
+----field----
+field: {A45D3CAD-92A7-47EB-B440-0BF1F87FD1B0}
+name: Address Line One
+key: address line one
+content-length: 14
+
+addressonetest
+----field----
+field: {539C4854-BCE7-408F-B609-253BCC6D7D32}
+name: City
+key: city
+content-length: 8
+
+citytest
+----field----
+field: {6387F861-5578-4DEF-AF32-45EF296DEA10}
+name: State
+key: state
+content-length: 9
+
+statetest
+----field----
+field: {5A595BBD-A125-4455-89A1-C65A68A48CE5}
+name: Zip Code
+key: zip code
+content-length: 11
+
+zipcodetest
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180305T230343Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+768ec39a-4eeb-46e5-bf78-c1854c0e9633
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180305T230344Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

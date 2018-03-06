@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {6CB5B70A-8439-483A-807B-67587CB7D83E}
+database: master
+path: /sitecore/content/Home/MVC-Demo-Component
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: MVC-Demo-Component
+master: {00000000-0000-0000-0000-000000000000}
+template: {5CD934DC-C295-44C3-B7DE-9DF01E02369F}
+templatekey: MVC-Demo-Template
+created: 20180105T194916Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 145
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{8E6EBFD9-38AB-4E6C-B04C-49E77F8C0FF3}" /></r>
+----version----
+language: en
+version: 1
+revision: 7136e403-f685-4e09-aaf5-5c9c7bccb885
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180105T194916Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7136e403-f685-4e09-aaf5-5c9c7bccb885
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180303T184526Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

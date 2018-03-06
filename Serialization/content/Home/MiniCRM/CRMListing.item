@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {1C920C8E-49CC-4728-BD0F-F10D2F6E9CEC}
+database: master
+path: /sitecore/content/Home/MiniCRM/CRMListing
+parent: {FEFBE988-3AAE-48BA-A7AC-5EFEF0A5FE74}
+name: CRMListing
+master: {00000000-0000-0000-0000-000000000000}
+template: {92A3BD93-36AD-4326-ACE5-76438B08AA18}
+templatekey: MasterPage
+created: 20180305T192200Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 332
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{5D49A23A-423A-45FC-86E5-2E20FC062BA7}">
+    <r id="{6F9D0614-C1B2-467C-BFAF-BC54530146B4}" ph="phTwo" uid="{A6AD2CA2-6DAB-47D8-B817-6F9A050389CA}" />
+    <r id="{B472C872-80DA-4C84-8F87-B1BD02A4F6A7}" ph="main" uid="{D4AD08EE-BCC5-4FFF-A66B-B358D7B3B6F7}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: c13bf4d2-4037-46d9-9ff6-f334bec527b9
+
+----field----
+field: {65244000-4AB3-4FF4-813A-B5679D5357FA}
+name: Title
+key: title
+content-length: 16
+
+Customer Listing
+----field----
+field: {7FA58801-C3D0-4F5F-AEFB-C01425CCFBE6}
+name: Content
+key: content
+content-length: 231
+
+<p>It is here that you are able to view the customers in the database, as well as search for customers</p>
+<p><a href="~/link.aspx?_id=FEFBE9883AAE48BAA7AC5EFEF0A5FE74&amp;_z=z">Click Here</a> to input more customer information</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180305T192200Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c13bf4d2-4037-46d9-9ff6-f334bec527b9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180305T201350Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

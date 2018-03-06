@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {1BE4C6DE-24D6-4B70-A115-11EE57E2C6E1}
+database: master
+path: /sitecore/content/Home/MiniCRM/Customers
+parent: {FEFBE988-3AAE-48BA-A7AC-5EFEF0A5FE74}
+name: Customers
+master: {00000000-0000-0000-0000-000000000000}
+template: {23599A83-2D45-4416-BE83-B63EECA4548B}
+templatekey: Components
+created: 20180305T140444Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+-50
+----version----
+language: en
+version: 1
+revision: 2c243b0e-e4d3-44c5-bb68-61d341a582e3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180305T140444Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c243b0e-e4d3-44c5-bb68-61d341a582e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180305T144915Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
