@@ -14,7 +14,6 @@ using Sitecore.Mvc.Controllers;
 using Sitecore.Mvc.Presentation;
 using Sitecore.Pipelines.InsertRenderings.Processors;
 using Sitecore.SecurityModel;
-using WillRawInstanceProj.Controllers.Search;
 using WillRawInstanceProj.Models;
 
 namespace WillRawInstanceProj.Controllers.renderings

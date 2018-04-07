@@ -38,4 +38,8 @@
   <File Include="Controllers\Search\ISearchRepository.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{DEEBFA3B-6BB1-462D-B432-133AB607A4DC}</Item>
   </File>
+  <File Include="Views\layouts\BootstrapPageLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="/Views/layouts/BootstrapPageLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{BE2F5BDE-C038-4036-A2C6-7F6AD1EAA055}</Item>
+  </File>
 </Project>

@@ -237,11 +237,89 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\StartBootstrap\bootstrap\css\bootstrap.css" />
+    <Content Include="Content\StartBootstrap\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Content\StartBootstrap\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\StartBootstrap\bootstrap\js\bootstrap.js" />
+    <Content Include="Content\StartBootstrap\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Content\StartBootstrap\css\agency.css" />
+    <Content Include="Content\StartBootstrap\css\agency.min.css" />
+    <Content Include="Content\StartBootstrap\font-awesome\css\font-awesome.css" />
+    <Content Include="Content\StartBootstrap\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\StartBootstrap\img\about\1.jpg" />
+    <Content Include="Content\StartBootstrap\img\about\2.jpg" />
+    <Content Include="Content\StartBootstrap\img\about\3.jpg" />
+    <Content Include="Content\StartBootstrap\img\about\4.jpg" />
+    <Content Include="Content\StartBootstrap\img\header-bg.jpg" />
+    <Content Include="Content\StartBootstrap\img\logos\creative-market.jpg" />
+    <Content Include="Content\StartBootstrap\img\logos\designmodo.jpg" />
+    <Content Include="Content\StartBootstrap\img\logos\envato.jpg" />
+    <Content Include="Content\StartBootstrap\img\logos\themeforest.jpg" />
+    <Content Include="Content\StartBootstrap\img\map-image.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\dreams-preview.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\dreams.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\escape-preview.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\escape.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\golden-preview.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\golden.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\roundicons-free.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\roundicons.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\startup-framework-preview.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\startup-framework.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\treehouse-preview.png" />
+    <Content Include="Content\StartBootstrap\img\portfolio\treehouse.png" />
+    <Content Include="Content\StartBootstrap\img\team\1.jpg" />
+    <Content Include="Content\StartBootstrap\img\team\2.jpg" />
+    <Content Include="Content\StartBootstrap\img\team\3.jpg" />
+    <Content Include="Content\StartBootstrap\jquery\jquery.js" />
+    <Content Include="Content\StartBootstrap\jquery\jquery.min.js" />
+    <Content Include="Content\StartBootstrap\js\agency.js" />
+    <Content Include="Content\StartBootstrap\js\agency.min.js" />
+    <Content Include="Content\StartBootstrap\js\contact_me.js" />
+    <Content Include="Content\StartBootstrap\js\jqBootstrapValidation.js" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\StartBootstrap\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\StartBootstrap\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\StartBootstrap\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\StartBootstrap\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\StartBootstrap\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\animated.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\bordered-pulled.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\core.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\fixed-width.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\font-awesome.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\icons.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\larger.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\list.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\mixins.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\path.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\rotated-flipped.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\screen-reader.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\stacked.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\less\variables.less" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\font-awesome.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_animated.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_core.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_icons.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_larger.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_list.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_mixins.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_path.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_screen-reader.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_stacked.scss" />
+    <Content Include="Content\StartBootstrap\font-awesome\scss\_variables.scss" />
     <None Include="Properties\PublishProfiles\WillRawPublishProfile.pubxml" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -262,6 +340,8 @@
     <Content Include="Views\CustInput\SubmitCusty.cshtml" />
     <Content Include="Views\Shared\_Layout - Copy.cshtml" />
     <Content Include="Views\CustSearch\SearchCustomers.cshtml" />
+    <Content Include="Views\layouts\BootstrapPageLayout.cshtml" />
+    <Content Include="Views\TeamMembers\ListEmployees.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -271,6 +351,7 @@
     <Compile Include="Controllers\renderings\CustSearchController.cs" />
     <Compile Include="Controllers\renderings\MiniCRMController.cs" />
     <Compile Include="Controllers\renderings\RocksControllerRenderingTest.cs" />
+    <Compile Include="Controllers\renderings\TeamMembersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -295,6 +376,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Scripts\StartBootstrap\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
