@@ -13,13 +13,12 @@ namespace WillRawInstanceProj.Controllers.renderings
 {
     public class TeamMembersController : Controller
     {
-        // GET: Default
         public ActionResult ListEmployees()
         {
-            //Pass datasource item to view. Probably could have made a view rendering
+            //Pass datasource item to view
             Item teamMembers = Context.Database.GetItem(RenderingContext.Current.Rendering.DataSource);
-
             return View(teamMembers);
         }
     }
 }
+

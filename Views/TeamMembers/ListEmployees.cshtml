@@ -13,27 +13,7 @@
         </div>
     </div>
     <div class="row">
-        @foreach (Item employee in Model.Children)
-        {
-            <div class="col-sm-4">
-                <div class="team-member">
-                    @Html.Sitecore().Field("Photo", employee, new { @class = "img-responsive img-circle" })
-                    <h4>@Html.Sitecore().Field("First Name", employee) @Html.Sitecore().Field("Last Name", employee)</h4>
-                    <p class="text-muted">@Html.Sitecore().Field("Job Title", employee)</p>
-                    <ul class="list-inline social-buttons">
-                        <li>
-                            <a href="@employee.Fields["Twitter"]"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li>
-                            <a href="@employee.Fields["Facebook"]"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li>
-                            <a href="@employee.Fields["Twitter"]"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        }
+        @Html.Sitecore().Placeholder("teammates")
     </div>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">

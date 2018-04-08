@@ -1,0 +1,24 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+@{
+
+}
+<div class="col-sm-4">
+    <div class="team-member">
+        @Html.Sitecore().Field("Photo", new { @class = "img-responsive img-circle" })
+        <h4>@Html.Sitecore().Field("First Name") @Html.Sitecore().Field("Last Name")</h4>
+        <p class="text-muted">@Html.Sitecore().Field("Job Title")</p>
+        <ul class="list-inline social-buttons">
+            <li>
+                <a href="@Model.Item.Fields["Twitter"]"><i class="fa fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="@Model.Item.Fields["Facebook"]"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="@Model.Item.Fields["Twitter"]"><i class="fa fa-linkedin"></i></a>
+            </li>
+        </ul>
+    </div>
+</div>

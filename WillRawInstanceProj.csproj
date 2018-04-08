@@ -342,6 +342,7 @@
     <Content Include="Views\CustSearch\SearchCustomers.cshtml" />
     <Content Include="Views\layouts\BootstrapPageLayout.cshtml" />
     <Content Include="Views\TeamMembers\ListEmployees.cshtml" />
+    <Content Include="Views\renderings\teammate.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
